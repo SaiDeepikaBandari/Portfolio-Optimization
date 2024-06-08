@@ -15,20 +15,20 @@ TOP 3 Chosen Stocks from each sector:
 
 Energy Sector:
 
-TRGP (Targa Resources Corp)
-FANG (Diamondback Energy, Inc)
+TRGP (Targa Resources Corp) ,
+FANG (Diamondback Energy, Inc) ,
 MRO (Marathon Oil Corporation)
 
 Finance Sector:
 
-BX (The Blackstone Group Inc.)
-HIG (The Hartford Financial Services Group, Inc.)
+BX (The Blackstone Group Inc.) ,
+HIG (The Hartford Financial Services Group, Inc.) ,
 MET (MetLife, Inc.)
 
 Materials Sector:
 
-NUE (Nucor Corporation)
-STLD (Steel Dynamics, Inc.)
+NUE (Nucor Corporation) ,
+STLD (Steel Dynamics, Inc.) ,
 SHW (Sherwin-Williams Company)
 
 Portfolio Allocations Across Different Risk Levels:
