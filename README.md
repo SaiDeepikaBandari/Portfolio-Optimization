@@ -33,6 +33,7 @@ Portfolio Allocations Across Different Risk Levels:
 The graph "Optimal Stock Allocation for Different Risk Levels" shows the varying proportions of a portfolio dedicated to nine different stocks at increasing levels of risk, depicted on the x-axis. The red line, representing 'BX', demonstrates a prominent increase in its portfolio share with rising risk, suggesting its role as a high-risk, high-return option. Conversely, 'SHW' the stock indicated by the yellow line, which decreases in allocation as risk increases, is likely preferred in lower-risk settings. Other stocks maintain smaller, steadier allocations, indicating their lesser influence on the portfolio's overall risk or a balanced role across different risk levels. This visualization is key for investors to align their portfolio allocations with their risk preferences.
 
 The efficient frontier plot visualizes the trade-off between risk and return for the different portfolio allocations.
+
 Plot with Efficent frontier:
 
 <img width="352" alt="image" src="https://github.com/SaiDeepikaBandari/Portfolio-Optimization/assets/163686372/e146ae4a-d55e-4ec8-9adb-092a337b315d">
