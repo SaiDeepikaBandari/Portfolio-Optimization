@@ -8,20 +8,25 @@ Collected historical stock price data for 30 tickers, representing 10 stocks fro
 Our goal is to allocate money into stocks to maximize the expected return while accounting for risk tolerance, with added constraints. We performed Momentum Trading on the selected portfolio to identify the best strategy for each stock. Finally, we analyzed how our portfolio performed for a $100K investment using different strategies.
 
 SECTORS :
+
 Energy Sector , Finance Sector , Materials Sector
 
 TOP 3 Chosen Stocks from each sector:
+
 Energy Sector:
+
 TRGP (Targa Resources Corp)
 FANG (Diamondback Energy, Inc)
 MRO (Marathon Oil Corporation)
 
 Finance Sector:
+
 BX (The Blackstone Group Inc.)
 HIG (The Hartford Financial Services Group, Inc.)
 MET (MetLife, Inc.)
 
 Materials Sector:
+
 NUE (Nucor Corporation)
 STLD (Steel Dynamics, Inc.)
 SHW (Sherwin-Williams Company)
